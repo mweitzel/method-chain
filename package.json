@@ -1,0 +1,12 @@
+{
+  "name": "mw-method-chain",
+  "version": "0.0.1",
+  "repository": "mweitzel/method-chain",
+  "description": "simple utility function to wrap a value and chain methods against it",
+  "keywords": ["method", "chain", "function", "chaining"],
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "*"
+  },
+  "license": "MIT"
+}
